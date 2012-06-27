@@ -1,4 +1,4 @@
 katina
 ======
 
-Apple App Store reviews scraping with sentiment analysis (Python)
+Apple App Store reviews scraping with sentiment analysis
