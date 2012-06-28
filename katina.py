@@ -206,9 +206,10 @@ if __name__ == '__main__':
         default=False,
         action='store_true',
         dest='should_analyze_sentiment',
-        help='Whether you want sentiment analysis (positive/negative) on each review'
+        help='Perform sentiment analysis on each review body'
         )
 
+  
     # add option to list countries
     cmdparser.add_argument('-l','--list',
         action='store_true',
